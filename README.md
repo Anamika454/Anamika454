@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="profile-banner.png"
+    alt="Anamika's Developer Banner"
+    width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Anamika M N</h1>
 <h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3><p align="center">
   💻 Learning, Building, and Growing Every Day 🚀
