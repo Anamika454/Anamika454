@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png"
+  <img src="profile-banner.png.jpeg"
     alt="Anamika's Developer Banner"
     width="100%">
 </p>
